@@ -35,8 +35,7 @@ Create a `.env` file in the project folder:
     GEMINI_API_KEY=your_actual_api_key
     GEMINI_MODEL=gemini-3.1-flash-lite
 
-Replace `your_actual_api_key` with your own API key.
-Never upload your real API key to GitHub.
+
 
 ### 6. Run the application
 
