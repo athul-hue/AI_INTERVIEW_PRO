@@ -1,6 +1,6 @@
 # AI Interview Bot — Gemini Version
 
-A working LLM application for the LLM Application Challenge.
+AI-powered interview assistant built with Python, Streamlit, and Google Gemini API to explore LLM-powered interview preparation.
 
 ## Tech stack
 - Python
